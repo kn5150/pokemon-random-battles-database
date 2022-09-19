@@ -13,7 +13,7 @@ const fieldRange = ["C10", "C11", "E6", "F6", "G6", "E9", "F9", "G9", "H9", "I9"
 
 function search() {
   const searchValue = searchCell.getValue();
-  const info = pkmnInfoWS.getRange("B2:X462").getValues();
+  const info = pkmnInfoWS.getRange("B2:X461").getValues();
   const infoFound = info.filter(r => r[22] == searchValue);
 
   dexNo.setValue(infoFound[0][0]);
