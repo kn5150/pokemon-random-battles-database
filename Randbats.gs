@@ -2,9 +2,6 @@ const ss = SpreadsheetApp.getActiveSpreadsheet();
 
 const searchWS = ss.getSheetByName("Search");
 const pkmnInfoWS = ss.getSheetByName("Pokémon Info");
-const pkmnSpriteWS = ss.getSheetByName("Sprite URLs - Pokémon");
-const itemSpriteWS = ss.getSheetByName("Sprite URLs - Items");
-const moveInfoWS = ss.getSheetByName("Move Information");
 
 const dexNo = searchWS.getRange("C9");
 const searchCell = searchWS.getRange("D2");
