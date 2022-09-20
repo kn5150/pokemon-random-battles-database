@@ -1,4 +1,4 @@
-# Pokémon Randbats Database
+# Pokémon Random Battles Database
 
 ## Introduction
 
@@ -9,9 +9,12 @@ That's when I thought maybe I could at least make it easier for myself while usi
 The dataset I've used was provided by the randbats community which can be found [here](https://pkmn.github.io/randbats/data/gen8randombattle.json). 
 
 ## Things to Know
+Access the Pokémon Random Battles Database [here](https://docs.google.com/spreadsheets/d/1GyjPifLBY1-_kF1PZRqNghrKC4MGVKPRcxS45CbVG5o/edit?usp=sharing)!
+
+* Make a copy of the spreadsheet for your personal use. 
 * You will need to authorize the built-in App Script called "Randbats" in order for this spreadsheet to work. If you haven't authorized an App Script before, please refer to [this webpage](https://spreadsheet.dev/authorizing-an-apps-script) for clear and easy to follow instructions. 
 * All your searches will be done on the Search sheet using the built-in search bar whether it'd be typing or using the drop down. The Pokémon Info and Move Info sheets are also included in case you may need to view the full list. 
 * It's only been designed to search one Pokémon at a time and the script may take quite a bit of seconds to find the info, so please let it do its work. Sometimes, images may not display, so you may need to refresh the spreadsheet. 
-* I'm not a 100% sure if everything is accurate and I'm always open to feedback. Please reach out to me on Discord in case you have something to comment. seta#5704
+* I'm not a 100% sure if everything is accurate and I'm always open to feedback. Please reach out to me on Discord in case you have something to comment. *seta#5704*
 
-Access the database [here](https://docs.google.com/spreadsheets/d/1GyjPifLBY1-_kF1PZRqNghrKC4MGVKPRcxS45CbVG5o/edit?usp=sharing)!
+![preview](https://user-images.githubusercontent.com/101081243/191230903-c4bb79b0-03a3-4388-b4e8-13f638219e96.gif)
