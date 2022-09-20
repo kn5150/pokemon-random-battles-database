@@ -6,11 +6,12 @@ I've been playing the random battle format for quite a bit and although I'm not 
 
 That's when I thought maybe I could at least make it easier for myself while using Google Chrome. I just so happen to be interested in things like spreadsheet development, process improvement, and data analytics for my work, so coming up with a creative solution for the data we have at hand would be a fun way for me to get my feet wet into that kind of work while I'm off the clock. 
 
-## The Public Dataset 
+The dataset I've used was provided by the randbats community which can be found [here](https://pkmn.github.io/randbats/data/gen8randombattle.json). 
 
-![dataset-1](https://user-images.githubusercontent.com/101081243/190602029-515b0ae0-2c56-4503-bf8f-4ba687db2e6e.PNG)
+## Things to Know
+* You will need to authorize the built-in App Script called "Randbats" in order for this spreadsheet to work. If you haven't authorized an App Script before, please refer to [this webpage](https://spreadsheet.dev/authorizing-an-apps-script) for clear and easy to follow instructions. 
+* All your searches will be done on the Search sheet using the built-in search bar whether it'd be typing or using the drop down. The Pokémon Info and Move Info sheets are also included in case you may need to view the full list. 
+* It's only been designed to search one Pokémon at a time and the script may take quite a bit of seconds to find the info, so please let it do its work. Sometimes, images may not display, so you may need to refresh the spreadsheet. 
+* I'm not a 100% sure if everything is accurate and I'm always open to feedback. Please reach out to me on Discord in case you have something to comment. seta#5704
 
-Usually, one of the best things about Pokémon is the community behind it, and I'm glad there's someone in the community that gave us access to to all that data which I found [here](https://pkmn.github.io/randbats/data/gen8randombattle.json). However, it's not very intuitive and it looks like there's way too much to sift through. 
-
-As I looked into the dataset, I unfortunately couldn't find a quick and easy way to clean it all up, so I ended up having to resort to doing a manual scrubbing which was a very, very tedious process...
-
+Access the database [here](https://docs.google.com/spreadsheets/d/1GyjPifLBY1-_kF1PZRqNghrKC4MGVKPRcxS45CbVG5o/edit?usp=sharing)!
