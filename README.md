@@ -6,15 +6,11 @@ I've been playing the random battle format for quite a bit and although I'm not 
 
 That's when I thought maybe I could at least make it easier for myself while using Google Chrome. I just so happen to be interested in things like spreadsheet development, process improvement, and data analytics for my work, so coming up with a creative solution for the data we have at hand would be a fun way for me to get my feet wet into that kind of work while I'm off the clock. 
 
-## The Current Dataset 
+## The Public Dataset 
 
 ![dataset-1](https://user-images.githubusercontent.com/101081243/190602029-515b0ae0-2c56-4503-bf8f-4ba687db2e6e.PNG)
 
 Usually, one of the best things about Pokémon is the community behind it, and I'm glad there's someone in the community that gave us access to to all that data which I found [here](https://pkmn.github.io/randbats/data/gen8randombattle.json). However, it's not very intuitive and it looks like there's way too much to sift through. 
 
-As I looked into the dataset, I unfortunately couldn't find a quick and easy way to clean it all up, so I ended up having to resort to doing a manual scrubbing in Microsoft Word... (x_x)
-
-![dataset-2](https://user-images.githubusercontent.com/101081243/190603138-2a7f3a2a-9467-460a-873b-84ac58e2cfef.PNG)
-
-There was quite a bit I could easily eradicate using the find/replace function, so I was able to save a lot of time with it. However, separating the different categories of information manually was still unavoidable and it's definitely a tedious process as there are hundreds of Pokémon in the format, even considering how many were excluded from Sword and Shield.
+As I looked into the dataset, I unfortunately couldn't find a quick and easy way to clean it all up, so I ended up having to resort to doing a manual scrubbing which was a very, very tedious process...
 
