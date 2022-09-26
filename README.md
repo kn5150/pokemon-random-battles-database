@@ -7,6 +7,7 @@ I've been playing the random battle format for quite a bit and although I'm not 
 That's when I thought maybe I could at least make it easier for myself while using Google Chrome. I just so happen to be interested in things like spreadsheet development, process improvement, and data analytics for my work, so coming up with a creative solution for the data we have at hand would be a fun way for me to get my feet wet into that kind of work while I'm off the clock. 
 
 The dataset I've used was provided by the randbats community which can be found [here](https://pkmn.github.io/randbats/data/gen8randombattle.json). 
+
 I've referenced [this tutorial](https://www.youtube.com/watch?v=ZKYvrD-3Ksc) to complete this project. Whoever is behind the channel is a great teacher!
 
 ## Things to Know
